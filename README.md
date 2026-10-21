@@ -1,1 +1,13 @@
-# PUEDAN_CSCC102-FILEHANDLING
+<img width="795" height="675" alt="Screenshot 2026-10-21 182020" src="https://github.com/user-attachments/assets/918b5719-cd8e-4edc-902f-e66561d9d7d7" />
+<img width="875" height="855" alt="Screenshot 2026-10-21 181755" src="https://github.com/user-attachments/assets/4e1a9a53-7c15-4cab-8a95-70bdc49df4a4" />
+<img width="982" height="600" alt="Screenshot 2026-10-21 181549" src="https://github.com/user-attachments/assets/5f4c6724-91f9-4d58-97c8-f329b5ff0c71" />
+<img width="984" height="595" alt="Screenshot 2026-10-21 181539" src="https://github.com/user-attachments/assets/518a0e7c-fadd-4a58-b4b6-c075c96f7e49" />
+<img width="984" height="596" alt="Screenshot 2026-10-21 181520" src="https://github.com/user-attachments/assets/ab20a43a-3b05-4f1c-a5d4-e9b5f4bab7a5" />
+<img width="985" height="599" alt="Screenshot 2026-10-21 181506" src="https://github.com/user-attachments/assets/20958876-9c57-408d-8440-d2073c00472c" />
+<img width="984" height="601" alt="Screenshot 2026-10-21 181454" src="https://github.com/user-attachments/assets/caf2b9e8-69bc-4974-b341-8b5976b08149" />
+<img width="985" height="593" alt="Screenshot 2026-10-21 181439" src="https://github.com/user-attachments/assets/773bcd91-caf2-4c34-9ca4-57c1494a66c6" />
+<img width="985" height="600" alt="Screenshot 2026-10-21 181426" src="https://github.com/user-attachments/assets/349a2026-4c9f-4c15-9daa-f4cd11815188" />
+<img width="981" height="595" alt="Screenshot 2026-10-21 181301" src="https://github.com/user-attachments/assets/5c705063-ffb0-4e3e-8a32-b77479ec0950" />
+<img width="982" height="611" alt="Screenshot 2026-10-21 181242" src="https://github.com/user-attachments/assets/cbdd2343-649b-44ec-a3f0-20c1b9ff801d" />
+<img width="985" height="592" alt="Screenshot 2026-10-21 181221" src="https://github.com/user-attachments/assets/a83e3302-9067-4d7c-9daa-4350b15b70ba" />
+<img width="986" height="593" alt="Screenshot 2026-10-21 181152" src="https://github.com/user-attachments/assets/72673328-7608-424f-96a6-340cfd5d6768" />
